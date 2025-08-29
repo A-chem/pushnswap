@@ -2,6 +2,8 @@
 
 `Push_swap` is a 42 project focused on **sorting integers using two stacks** with a minimal set of operations. The main objective is to sort a list of numbers efficiently while respecting the constraints of stack operations.
 
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/27dad990-bfed-401f-8a09-4d6fc5f6841f" />
+
 ---
 
 ## 🚀 Project Overview
